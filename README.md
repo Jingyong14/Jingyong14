@@ -4,8 +4,11 @@
 
 <h4> Faculty of Computing, University of Technology Malaysia </h4>
 
-- 🌱 I’m currently learning <b>6</b> different subjects, namely Human Computer Interaction, Programming Technique II, Computer Organization and Architecture, Appreciation of ethics and civilisation, Software Engineering, and Probability and Statistical Data Analysis in the <b>second semester</b> of Data Engineering.
+🌠19 Years Old
+🌠Gemas, Negeri Sembilan, Malaysia
 
+
+- 🌱 I’m currently learning <b>6</b> different subjects, namely Human Computer Interaction, Programming Technique II, Computer Organization and Architecture, Appreciation of ethics and civilisation, Software Engineering, and Probability and Statistical Data Analysis in the <b>second semester</b> of Data Engineering.
 
 - <b>💬 My current knowledges: </b>
   <ul>
@@ -17,6 +20,7 @@
   <ul>
   <li>Email : jingyong0814@gmail.com </li>
   <li>Phone number: 011-10740814 </li>
+  <li>Instagram : <a href="https://www.instagram.com/jyng814/?theme=dark">Jyng148</a></li>
   </ul>
 
 - 😄 Pronouns: He/Him
