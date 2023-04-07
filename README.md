@@ -14,10 +14,10 @@
   </ul>
   
 - <b>📫 How to reach me: </b>
-<ul>
+  <ul>
   <li>Email : jingyong0814@gmail.com </li>
   <li>Phone number: 011-10740814 </li>
-</ul>
+  </ul>
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like drawing and playing online games!
