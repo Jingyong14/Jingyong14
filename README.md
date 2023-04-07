@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Jing Yong, you can call me Jyng. 👋
 
-**Jingyong14/Jingyong14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 1st Year Student of Data Engineering </h2>
 
-Here are some ideas to get you started:
+<h3> Faculty of Computing, University of Technology Malaysia </h3>
 
 - 🔭 I’m currently working on multiple projects for my study in Data Engineering in Faculty of Computing, UTM.
 - 🌱 I’m currently learning 6 different subjects, namely Human Computer Interaction, Programming Technique II, Computer Organization and Architecture, Appreciation of ethics and civilisation, Software Engineering, and Probability and Statistical Data Analysis.
