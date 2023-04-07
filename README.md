@@ -26,4 +26,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like drawing and playing online games!
 
+<br>
 <img src="https://i.pinimg.com/originals/71/a8/3d/71a83d8508e92357571b3ced8ebbf17a.gif" height="300" width="450">
