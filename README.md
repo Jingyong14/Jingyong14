@@ -4,7 +4,7 @@
 
 <h4> Faculty of Computing, University of Technology Malaysia </h4>
 
-🌠19 Years Old
+🌠19 Years Old <br>
 🌠Gemas, Negeri Sembilan, Malaysia
 
 
@@ -25,3 +25,5 @@
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like drawing and playing online games!
+
+<img src="https://media.tenor.com/i_1pVYP2luoAAAAC/valorant-play-valorant.gif" height="200" width="200">
