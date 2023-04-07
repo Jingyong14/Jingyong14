@@ -26,4 +26,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like drawing and playing online games!
 
-<img src="https://media.tenor.com/i_1pVYP2luoAAAAC/valorant-play-valorant.gif" height="200" width="200">
+<img src="https://media.tenor.com/i_1pVYP2luoAAAAC/valorant-play-valorant.gif" height="300" width="300" border="5px">
