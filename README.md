@@ -26,3 +26,8 @@
   <li>Phone number: 011-10740814 </li>
   <li>Instagram : <a href="https://www.instagram.com/jyng814/?theme=dark">Jyng148</a></li>
   </ul>
+
+- <b>:computer: Worked Projects: </b>
+  <ul>
+    <li>Student Activity Management System (Website Development)</li>
+  </ul>
